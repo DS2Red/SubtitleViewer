@@ -8,15 +8,13 @@ A simple and efficient subtitle viewer application built with PyQt6.
 - Fullscreen mode
 - Customizable fonts and colors
 - Drag and drop subtitle files
-- Subtitle list view with double-click to jump
-- Auto-loops playback
 
 ## Installation
 
 ### Option 1: Download the Executable
 1. Go to the [Releases](../../releases) page
-2. Download `SubtitleViewer.zip`
-3. Extract the ZIP file
+2. Download `SubtitleViewer.7z`
+3. Extract the ZIP file including SubtitleViewer.exe and the _internal folder into the same location
 4. Run `SubtitleViewer.exe` - no installation needed
 
 ### Option 2: Run from Source
