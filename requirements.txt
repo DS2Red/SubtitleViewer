@@ -1,6 +1,6 @@
-PyQt6
-pysrt
-chardet
-ass
-webvtt-py
-pyinstaller 
+PyQt6==6.6.1
+pysrt==1.1.2
+chardet==5.2.0
+ass==0.5.5
+webvtt-py==0.4.6
+pyinstaller==6.3.0 

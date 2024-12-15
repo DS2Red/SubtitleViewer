@@ -54,3 +54,6 @@ To create your own executable:
 ## License
 
 [MIT License](LICENSE) 
+
+### Prerequisites
+- Windows users might need to install [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe) if they encounter DLL errors 
