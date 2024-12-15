@@ -25,9 +25,15 @@ jobs:
     - name: Build executable
       run: python build_exe.py
     
+    - name: Create ZIP archive
+      run: |
+        cd dist
+        7z a SubtitleViewer.zip SubtitleViewer.exe
+        cd ..
+    
     - name: Create Release
       uses: softprops/action-gh-release@v1
       with:
-        files: dist/SubtitleViewer.exe
+        files: dist/SubtitleViewer.zip
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 

@@ -15,8 +15,9 @@ A simple and efficient subtitle viewer application built with PyQt6.
 
 ### Option 1: Download the Executable
 1. Go to the [Releases](../../releases) page
-2. Download the latest `SubtitleViewer.exe`
-3. Run the executable directly - no installation needed
+2. Download `SubtitleViewer.zip`
+3. Extract the ZIP file
+4. Run `SubtitleViewer.exe` - no installation needed
 
 ### Option 2: Run from Source
 1. Clone this repository
