@@ -1,0 +1,6 @@
+PyQt6
+pysrt
+chardet
+ass
+webvtt-py
+pyinstaller 
